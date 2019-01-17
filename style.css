@@ -1,0 +1,41 @@
+body {
+	background-image: url(images/image.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px;
+}
+
+body,html {
+    height: 100%;
+    width: 100%;
+}
+
+div {
+    border: 1px solid black;
+    border-radius: 1000px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    transition: 1s;
+}
+
+button {
+	color: black;
+	background-color: #ccc;
+	border: none;
+	padding: 1em;
+	border-radius: 2em;	
+    margin: 1em 2.5em;
+}
+
+button:hover {
+    background-color: white;
+}
+
+#container {
+    padding: 1em;
+}
