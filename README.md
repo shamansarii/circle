@@ -1,7 +1,7 @@
-CIRCLE COLOR
-------------
+CIRCLE
+------
 
-You can see website here:  https://shamababul123.github.io/circle-color/
+You can see website here: https://shamansarii.github.io/circle/.
 
 ## WORKSHOP
 
