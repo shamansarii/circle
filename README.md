@@ -2,7 +2,7 @@ CIRCLE
 ------
 You can see website here: https://shamansarii.github.io/circle/.
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft circle. You click in the button and get the color,background-color,border-color and size change.
 
